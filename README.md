@@ -1,4 +1,4 @@
-# Desafio-Tekna.Rocks
+# Desafio Tekna.Rocks
 
 ## Description
 This project aims to process data from a Google Sheets spreadsheet, calculate students' status based on their grades and absences, and record the results in the same spreadsheet.
