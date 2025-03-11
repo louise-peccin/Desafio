@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "desafioteknarocks",
+  "private_key_id": "849c357d5fd4e92d893f998c8c1332424c15af0e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCaWqu9evN7318G\nRtF4qQ1TkRi/ej5ei2M7yWC/41l0kt2UkgVzLgSiWr6/dRjOUzzlJcvpsPeYv8Wt\nLReYXEdHIXc1wZnqKmKU3/Yg4OU8TgjYKaeaMWgSDiqWykk2sUmp/sjezEhq6g0X\n49uXNX8kiTaCoRZHHDmckr2anMLUXIVOIYY851d9V3OCvUfdtrG0EHBjUkwIzwjf\n6SSiTctb+Dw3tkPONAQcYHforHllrSjMplrVseDS6tUpkZ9oLhSb6gHtBjOJLcyk\nJUUCbgQ25kjohYNtHDAROApMUeeJ3GyZatQyZVQqzDsc8qdgdhkgwSxRwgz/ek8J\nn45L7d5zAgMBAAECggEAC8vPITFyxy44dGHYI1kEEDVgB04f0xji8hA/SRrmXL7W\nmUKZkQZcy02VE0uvJCF/X2HGlir0mSNax5PRIE85EUoQ8rZDfX5Uv1zoUfXt/vBV\nw7NXQDTzZ6HWhmSaOMhOwWOb1U8WX7lYW9GJmCI5/8BOvqfx7GhPTNR4EgdV6mWz\nOEkvYhOqj1T24G2dRir0U++1FaHhR6ePyA1qTR+Nnelz8AN4fx2Ht2f29xCGWUFl\nspB7DrLG6RdlQkc9mTihWhIV4zclB8kAN1j1mWYxtmWpeHbhWYHNN5SLcNSp77lp\nVRLV5ldi0HsCL8fNOB2ZXZh/IU9EySGTvwkN1vzruQKBgQDY/h71ASwlF9miQuRC\nGdF1zmAjvdR6ugdOQdOJTwFg4JLwWYpopGXxeGsZS/y2eRRt/PFHJurF6ALlI156\nnvuJy0qiVGP8BG0MY1aqqUnJVTQE1qT1TcJXNy/KHynXkdowSHrOLNO1zf5fSjma\nI+pGdx2t3/p+EIrfVpzBgsST2QKBgQC2GfZ4bhnGUWCR7P5tTlLYpCJh/o7RNCiK\nXGTddrox0y3Lk185aVZSymltsF2Z/mwpWG0ATTyiWTfPOe0gAkDmu0k5c1HHH9qj\nw+3CU21rE51eDexsRArdqZBJgsqJjApB6e+kO7vuqwQoZr88hTZ3CE6idqp+45HU\nNRqgAjCxKwKBgQCeSRDP6+EF1dX9lQnoZejzJG3g5JJgS98UaNQj7yu0PV0yUj6y\ngmmSsSJ+u31GpiAO81oVawALCWlDOH+sttgJ9e8lZqXgqmHZjYUkzIR0huCBPwnp\nnqVK9Yi4ye69vzkHy3c5el2c2vzZCc3m8Jfueul9ckrJNsv2irmiNv+qUQKBgQCl\nPl4H3nEJIyMsiBBAhAhtilOg9OwILvpyw3DL/kbrm6Q8zVhlso6gxghxfs8RRGxG\nAHW5Bl11PNyF8RyaJTFbrqu9tEWLGf6/CLYh1q69sajlhmD5xazOhGXoLwU3V5qf\nQXcyYvogk5NMTiBO/Nr1nNYuWtxQFJVqKV4lwJcKzQKBgQCo2BDaVjJi0FDfo8os\nkF9brut/eRI2UXEFbUYfxwukDORC96jeyThcxglykTuGbJDbMVu+HQJoBQuh7iql\nvmVKYCT7YQ6HMKDUfzhVAE7swBwtktem9WF/fZKeJv75KDYRvYxj4oM8x12Xrh5y\nuKjlZyHajnT4XIJ3UQTezByV9A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "desafio@desafioteknarocks.iam.gserviceaccount.com",
+  "client_id": "105495007897727230009",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/desafio%40desafioteknarocks.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
