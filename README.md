@@ -21,6 +21,10 @@ This project aims to process data from a Google Sheets spreadsheet, calculate st
 4. Replace the value of the `SERVICE_ACCOUNT_FILE` constant with the JSON file path.
 5. Replace `SPREADSHEET_ID` with the Google Sheets spreadsheet ID.
 
+## Spreadsheet Link
+You can access the Google Sheets spreadsheet at the following link:
+[Google Sheets - Software Engineer - Challenge Louise Peccin](https://docs.google.com/spreadsheets/d/1Siswf9gqZm45XJXx1HbSUCNTRPbhxqhHQPZ2w5x5W64/edit?usp=sharing)
+
 ## How to Run
 1. Install the necessary dependencies:
    ```bash
@@ -51,6 +55,5 @@ This project aims to process data from a Google Sheets spreadsheet, calculate st
 
 ## Author
 Developed by Louise P. Peccin.
-
 
 
