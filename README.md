@@ -1,4 +1,4 @@
-# Desafio Tekna.Rocks
+# Desafio-Tekna.Rocks
 
 ## Description
 This project aims to process data from a Google Sheets spreadsheet, calculate students' status based on their grades and absences, and record the results in the same spreadsheet.
@@ -20,6 +20,16 @@ This project aims to process data from a Google Sheets spreadsheet, calculate st
 3. Save the JSON file in the same directory as the script or in a secure location.
 4. Replace the value of the `SERVICE_ACCOUNT_FILE` constant with the JSON file path.
 5. Replace `SPREADSHEET_ID` with the Google Sheets spreadsheet ID.
+
+## How to Run
+1. Install the necessary dependencies:
+   ```bash
+   pip install gspread google-auth
+   ```
+2. Run the script:
+   ```bash
+   python main.py
+   ```
 
 ## Code Logic
 1. Authenticates and accesses the Google Sheets spreadsheet.
